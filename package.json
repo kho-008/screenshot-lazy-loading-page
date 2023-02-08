@@ -1,0 +1,17 @@
+{
+  "name": "puppeteer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lazy": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "date-fns": "^2.29.3",
+    "puppeteer": "^19.6.3",
+    "puppeteer-autoscroll-down": "^1.1.1"
+  }
+}
